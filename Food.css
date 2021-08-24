@@ -1,9 +1,28 @@
-#bg {
-    position:relative;
-    background-image: url(one.png), url(two.png);
-    background-position: left, right;
-    background-repeat: no-repeat, no-repeat;
-    background-size: 480px 961px, 1066px 962px;
-    padding: 25px;
-    height: 918px;
+.fishes {
+    width: 115%;
+    position: relative;
+    top: -11px;
+    left: -75px;
+}
+.fish {
+    position: absolute;
+    top: -8px;
+    left: -8px;
+    width: 34%;
+    height: 99%;
+    opacity: 0.8;
+}
+.first {
+    color: white;
+    position: relative;
+    bottom: 891px;
+    left: 25px;
+    font-size: 564%;
+}
+.second {
+    color: white;
+    position: relative;
+    bottom: 889px;
+    left: 130px;
+    font-size: 564%;
 }
