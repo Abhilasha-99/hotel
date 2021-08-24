@@ -1,0 +1,9 @@
+#bg {
+    position:relative;
+    background-image: url(one.png), url(two.png);
+    background-position: left, right;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 480px 961px, 1066px 962px;
+    padding: 25px;
+    height: 918px;
+}
